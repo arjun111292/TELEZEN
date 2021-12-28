@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://1.bp.blogspot.com/-bMerZKbriRY/X0YzqiPFCsI/AAAAAAAAAP8/1GHlVlmMGcQsHu8cxeK1o5WkTe2VeXlDgCLcBGAsYHQ/s1652/Picture_20200826_152605754.jpg" width="470" height="150">
+  <img src="https://telegra.ph/file/08a71b67ed0a19c251254.jpg>
 </p>
 
 <p align="center"><img src="https://img.shields.io/badge/Version-1.01-brightgreen"></p>
@@ -34,7 +34,7 @@
 
 `$ pkg install git`
 
-`$ git clone https://github.com/termuxprofessor/TeleGram-Scraper-Adder`
+`$ git clone https://https://github.com/TELEZEN/TELEZEN`
 
 `$ cd Telegram-Scraper-Adder`
 
@@ -50,17 +50,27 @@
 
 `$ python adder.py`
 
-## • Watch Video Tutorial From Below
-* https://youtu.be/hNztfzMMPOc
----
+## - How to use in CMD-Command Prompt (PC USERS)
 
-<p align="center">
-  Follow Me On
-</p>
-<p align="center">
-  <a href="https://www.youtube.com/c/TermuxProfessorYT">
-    <img src="https://github.com/th3unkn0n/extra/blob/master/.img/yt.png" width="40" height="40">
-  </a>
-  <a href="https://www.instagram.com/termuxprofessor/">
-    <img src="https://github.com/th3unkn0n/extra/blob/master/.img/ig.png" width="40" height="40">
-</p>
+ . Download zip file of this repo.
+ 
+ . Copy paste it in Desktop.
+ 
+ . Open CMD.
+ 
+ . Then Type The Following Commands :
+ 
+ . ` cd Desktop .
+ 
+ . ` cd TELEZEN .
+ 
+ . ` dir .(This command shows list of files in TELEZEN folder).
+ 
+ . ` python setup.py .
+ 
+ . ` python scraper.py .
+ 
+ . Then follow Instructions as shown in.
+ 
+ . ` python adder.py .
+ 
