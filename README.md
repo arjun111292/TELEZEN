@@ -52,7 +52,7 @@ T E L E Z E N
  
  . ` cd Desktop .
  
- . ` cd TELEZEN .
+ . ` cd TELEZEN-main .
  
  . ` dir .(This command shows list of files in TELEZEN folder).
  
