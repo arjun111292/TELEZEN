@@ -1,25 +1,11 @@
 <p align="center">
-  <img src="https://telegra.ph/file/08a71b67ed0a19c251254.jpg>
+<img src="https://github.com/PR0FESS0R-99/DonLee-Robot-V2/blob/Professor-99/DONLEE-ROBOT-V2/DonLee_Robot.jpg" alt="DonLeeLogo">
 </p>
 
-<p align="center"><img src="https://img.shields.io/badge/Version-1.01-brightgreen"></p>
 <p align="center">
-  <a href="https://github.com/termuxprofessor">
-    <img src="https://img.shields.io/github/followers/th3unkn0n?label=Follow&style=social">
-  </a>
-  <a href="https://github.com/termuxprofessor/Telegram-Scraper-Adder">
-    <img src="https://img.shields.io/github/stars/th3unkn0n/TeleGram-Group-Scraper?style=social">
-  </a>
+🤖 𝐃𝐎𝐍 𝐋𝐄𝐄 𝐑𝐎𝐁𝐎𝐓 𝐕𝟐 🤖
 </p>
-<p align="center">
-  TELEGRAM SCRAPER ADDER-TELEZEN
-</p>
-<p align="center">
- ITZ TELEZEN
-</p>
-
 ---
-
 ## • API Setup
 * Go to http://my.telegram.org  and log in.
 * Click on API development tools and fill the required fields.
