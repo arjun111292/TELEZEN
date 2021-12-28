@@ -56,11 +56,17 @@ T E L E Z E N
  
  . ` dir .(This command shows list of files in TELEZEN folder).
  
+ ## To set the script:
+ 
  . ` python setup.py .
+ 
+ ## To scrape members:
  
  . ` python scraper.py .
  
  . Then follow Instructions as shown in.
+ 
+ ## To Add members:
  
  . ` python adder.py .
  
